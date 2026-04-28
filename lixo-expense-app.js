@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from "react";
 import {
+  console.log("App is running")
   BarChart,
   Bar,
   XAxis,
